@@ -2,15 +2,19 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:         
 
 jobs:
   build:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: vcschroer
           outputs: dist
