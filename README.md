@@ -4,39 +4,36 @@
   <h3>Game Developer & Front-End Developer</h3>
 
   <p>
-    Desenvolvedora de Jogos e Desenvolvedora Front-End com base em C#, Unity, Godot e tecnologias Web modernas.
+    Game Developer and Front-End Developer based on C#, Unity, Godot, and modern Web technologies.
+  </p>
+
+  <p>
+    🔗 <a href="https://vcschroer-portfolio.vercel.app/" target="_blank"><b>Portfolio</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 <a href="https://linkedin.com/in/vcschroer" target="_blank"><b>LinkedIn</b></a>
+  </p>
+
+  ---
+
+  <h3>Languages & Tools</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,python,html,css,astro,unity,godot,blender" alt="Tech Stack Line 1" />
     <br>
-  </p>
-
-  <p>
-    <a href="https://vcschroer-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfólio">
-    </a>
-    <a href="https://linkedin.com/in/vcschroer" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/vcschroer" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
+    <img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects,vscode,visualstudio,discord,git,github" alt="Tech Stack Line 2" />
   </p>
 
   ---
 
-  <h3>💻 Linguagens & Ferramentas</h3>
+  <h3>GitHub Stats</h3>
 
-  <p>
-    <b>Linguagens:</b> C#, JavaScript, Python, HTML5, CSS3, HLSL, Astro<br>
-    <b>Engines & Frameworks:</b> Unity, Godot<br>
-    <b>Shaders & Art:</b> ShadersLab, Blender, Photoshop, Premiere, After Effects<br>
-    <b>Controle de Versão:</b> Git, GitHub, Vercel
-  </p>
-
-  ---
-
-  <h3>📊 Estatísticas</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vcschroer&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=121214" alt="GitHub Stats" />
-  </p>
+  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; background: transparent; padding: 4px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcschroer&theme=tokyo_night" alt="GitHub Profile Details" />
+      </td>
+      <td align="center" style="border: none; background: transparent; padding: 4px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcschroer&layout=compact&theme=tokyonight&hide_border=true&bg_color=121214" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
