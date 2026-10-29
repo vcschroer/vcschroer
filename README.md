@@ -21,12 +21,4 @@
     <img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects,vscode,visualstudio,discord,git,github" alt="Tech Stack Line 2" />
   </p>
 
-  ---
-
-  <h3>GitHub Stats</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vcschroer&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=121214" alt="GitHub Stats" height="165" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcschroer&layout=compact&theme=tokyonight&hide_border=true&bg_color=121214" alt="Most Used Languages" height="195" />
-  </p>
-
 </div>
